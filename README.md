@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Workflow Insights Dashboard
+
+Crie um Dashboard para Task Manager seguindo fielmente o estilo apresentado de dashboards ja existentes no sistema. utilize o documento como base para entender o propósito... a idéia é que ao olhar para este dashboard, seja possível visualizar o fluxo de trabalho na empresa, saber que itens estão na fila aguardando encaminhamento, quais tarefas estão em andamento, se a força de trabalho esperada está ativa, o que está bloqueado, etc... o documento fala bem sobre isso. Siga
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/b5e51ceb-4b28-4979-870b-f404065e2fde).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
