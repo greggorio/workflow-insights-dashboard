@@ -473,7 +473,7 @@ function TaskDashboard() {
         <div className="p-3">
           <div className="space-y-1">
             {arvoreExemplo.map((n) => {
-              const e = estadoArvore[n.estado] ?? estadoArvore.macro!;
+              const e = estadoArvore[n.estado] ?? { cor: "bg-muted-foreground", rotulo: "—" };
               return (
                 <div
                   key={n.id}
